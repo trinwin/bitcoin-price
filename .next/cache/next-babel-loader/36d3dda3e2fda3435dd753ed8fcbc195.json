@@ -1,0 +1,1 @@
+{"ast":null,"code":"class Prices extends React.Component {}","map":{"version":3,"sources":["/Users/TrinhNg/Desktop/workspace/vscode/bitzprice/components/Prices.js"],"names":["Prices","React","Component"],"mappings":"AAAA,MAAMA,MAAN,SAAqBC,KAAK,CAACC,SAA3B,CAAqC","sourcesContent":["class Prices extends React.Component {}\n"]},"metadata":{},"sourceType":"script"}
